@@ -3,7 +3,7 @@ The purpose of this project is to scrape information from websites and output th
 
 # How to run
 
-To run the chesse scraper
+To run the cheese scraper
 `node webscraper.js`
 
 To run the whiskey scraper
