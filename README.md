@@ -1,5 +1,5 @@
 # Purpose
-The purpose of this project is to scrape information from websites and output the date in JSON format.
+The purpose of this project is to scrape information from websites and output the data in JSON format.
 
 # How to run
 
